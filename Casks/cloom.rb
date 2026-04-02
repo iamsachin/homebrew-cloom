@@ -1,6 +1,6 @@
 cask "cloom" do
   version "1.0.2"
-  sha256 "774e0849dd54281d5cfde9bb228d2c83f3d71569969181f3f328df8ccc96c5c4"
+  sha256 "fad6376b2a22200d01b3cb58f9263dcf74feb78f9978719a2d393698144c96e0"
 
   url "https://github.com/iamsachin/cloom/releases/download/v1.0.2/Cloom-1.0.2.dmg"
   name "Cloom"
