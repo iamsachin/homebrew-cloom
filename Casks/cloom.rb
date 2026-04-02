@@ -1,8 +1,8 @@
 cask "cloom" do
-  version "0.7.2"
-  sha256 "abd6d5c45b06e2ccfc9c191223139de5066bf952a7f96ef5c3ea391af41207e2"
+  version "1.0.0"
+  sha256 "160403c3cf2917fb9fa0bfb2939cf6a3f2f4d8cf54c473666a9dd062eadca3a8"
 
-  url "https://github.com/iamsachin/cloom/releases/download/v0.7.2/Cloom-0.7.2.dmg"
+  url "https://github.com/iamsachin/cloom/releases/download/v1.0.0/Cloom-1.0.0.dmg"
   name "Cloom"
   desc "Open-source screen recorder for macOS"
   homepage "https://github.com/iamsachin/cloom"
